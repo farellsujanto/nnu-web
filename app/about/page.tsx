@@ -26,7 +26,7 @@ export default function AboutPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-16">
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/genset/genset2.png"
+                  src="/genset/genset2.webp"
                   alt="Generator Sets"
                   fill
                   className="object-cover"
@@ -34,7 +34,7 @@ export default function AboutPage() {
               </div>
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/panel/3(9).png"
+                  src="/panel/3(9).webp"
                   alt="Electrical Panels"
                   fill
                   className="object-cover"
@@ -42,7 +42,7 @@ export default function AboutPage() {
               </div>
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/sensorcontrol/autonics1.png"
+                  src="/sensorcontrol/autonics1.webp"
                   alt="Sensors"
                   fill
                   className="object-contain bg-white p-4"
@@ -50,7 +50,7 @@ export default function AboutPage() {
               </div>
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/pneumatic/norgren/norgren1.png"
+                  src="/pneumatic/norgren/norgren1.webp"
                   alt="Pneumatic Systems"
                   fill
                   className="object-contain bg-white p-4"
@@ -133,7 +133,7 @@ export default function AboutPage() {
                 </div>
                 <div className="relative h-64 rounded-xl overflow-hidden shadow-md">
                   <Image
-                    src="/panel/1(3).png"
+                    src="/panel/1(3).webp"
                     alt="Our Projects"
                     fill
                     className="object-cover"
@@ -144,7 +144,7 @@ export default function AboutPage() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div className="relative h-64 rounded-xl overflow-hidden shadow-md order-2 md:order-1">
                   <Image
-                    src="/genset/8(3).png"
+                    src="/genset/8(3).webp"
                     alt="Quality Solutions"
                     fill
                     className="object-cover"

@@ -33,7 +33,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex items-center">
             <Image
-              src="/nortech-logo.png"
+              src="/nortech-logo.webp"
               alt="Nortech Niaga Utama"
               width={160}
               height={50}

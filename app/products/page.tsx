@@ -17,10 +17,10 @@ const products = [
     ],
     color: 'yellow',
     images: [
-      { src: '/genset/5(3).png', alt: 'Industrial Generator Set' },
-      { src: '/genset/8(3).png', alt: 'Commercial Power Generation' },
-      { src: '/genset/genset2.png', alt: 'Backup Power System' },
-      { src: '/genset/genset5.png', alt: 'Prime Power Generator' },
+      { src: '/genset/5(3).webp', alt: 'Industrial Generator Set' },
+      { src: '/genset/8(3).webp', alt: 'Commercial Power Generation' },
+      { src: '/genset/genset2.webp', alt: 'Backup Power System' },
+      { src: '/genset/genset5.webp', alt: 'Prime Power Generator' },
     ]
   },
   {
@@ -35,10 +35,10 @@ const products = [
     ],
     color: 'green',
     images: [
-      { src: '/panel/1(3).png', alt: 'Industrial Control Panel' },
-      { src: '/panel/2(5).png', alt: 'Custom Electrical Panel' },
-      { src: '/panel/3(9).png', alt: 'Power Distribution System' },
-      { src: '/panel/4(4).png', alt: 'Motor Control Center' },
+      { src: '/panel/1(3).webp', alt: 'Industrial Control Panel' },
+      { src: '/panel/2(5).webp', alt: 'Custom Electrical Panel' },
+      { src: '/panel/3(9).webp', alt: 'Power Distribution System' },
+      { src: '/panel/4(4).webp', alt: 'Motor Control Center' },
     ]
   },
   {
@@ -58,9 +58,9 @@ const products = [
       info: 'Since 1977, Autonics has been at the forefront of sensing and control technology. Their comprehensive product line includes sensors, controllers, motion devices, and measuring instruments used across automotive, semiconductor, food & beverage, and packaging industries worldwide.',
     },
     images: [
-      { src: '/sensorcontrol/autonics1.png', alt: 'Autonics Photoelectric Sensors' },
-      { src: '/sensorcontrol/autonics2.png', alt: 'Autonics Control Systems' },
-      { src: '/sensorcontrol/Untitled design (2).png', alt: 'Autonics Automation Solutions' },
+      { src: '/sensorcontrol/autonics1.webp', alt: 'Autonics Photoelectric Sensors' },
+      { src: '/sensorcontrol/autonics2.webp', alt: 'Autonics Control Systems' },
+      { src: '/sensorcontrol/Untitled design (2).webp', alt: 'Autonics Automation Solutions' },
     ]
   },
   {
@@ -92,12 +92,12 @@ const products = [
       },
     ],
     images: [
-      { src: '/pneumatic/norgren/11(2).png', alt: 'Norgren Pneumatic Cylinders' },
-      { src: '/pneumatic/norgren/12(2).png', alt: 'Pneumatic Control Valves' },
-      { src: '/pneumatic/norgren/13(2).png', alt: 'Air Preparation Units' },
-      { src: '/pneumatic/norgren/norgren1.png', alt: 'Norgren FRL Components' },
-      { src: '/pneumatic/norgren/norgren2.png', alt: 'Industrial Pneumatic Systems' },
-      { src: '/pneumatic/norgren/Untitled design (3).png', alt: 'Complete Pneumatic Solutions' },
+      { src: '/pneumatic/norgren/11(2).webp', alt: 'Norgren Pneumatic Cylinders' },
+      { src: '/pneumatic/norgren/12(2).webp', alt: 'Pneumatic Control Valves' },
+      { src: '/pneumatic/norgren/13(2).webp', alt: 'Air Preparation Units' },
+      { src: '/pneumatic/norgren/norgren1.webp', alt: 'Norgren FRL Components' },
+      { src: '/pneumatic/norgren/norgren2.webp', alt: 'Industrial Pneumatic Systems' },
+      { src: '/pneumatic/norgren/Untitled design (3).webp', alt: 'Complete Pneumatic Solutions' },
     ]
   },
 ];

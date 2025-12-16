@@ -21,26 +21,27 @@ export default function Hero() {
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <div className="max-w-4xl mx-auto text-center py-16 md:py-24">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-            Engineering Excellence in 
+            Premium Automation Technology for 
             <span className="block mt-2">
-              <span className="text-[#F5B335]">Industrial </span>
-              <span className="text-[#E94B4B]">Automation</span>
+              <span className="text-[#F5B335]">Indonesian </span>
+              <span className="text-[#E94B4B]">Industries</span>
             </span>
           </h1>
           
           <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Your trusted partner for generator sets, electrical systems, sensors, automation solutions, controllers, and pneumatic equipment.
+            Authorized distributor of Norgren, Autonics, Airtac & Bless. Genuine products, expert support, 
+            and complete solutions for power generation, electrical systems, sensors, and pneumatic automation.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <a
-              href="#products"
+              href="/products"
               className="w-full sm:w-auto px-8 py-3 bg-gradient-to-r from-[#F5B335] to-[#E94B4B] text-white font-medium rounded-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
             >
               Explore Products
             </a>
             <a
-              href="#contact"
+              href="/contact"
               className="w-full sm:w-auto px-8 py-3 border-2 border-[#F5B335] text-gray-700 font-medium rounded-lg hover:bg-[#F5B335] hover:text-white transition-all duration-200"
             >
               Get in Touch

@@ -16,11 +16,10 @@ export default function Navigation() {
   }, []);
 
   const navLinks = [
-    { href: '#home', label: 'Home' },
-    { href: '#products', label: 'Products' },
-    { href: '#brands', label: 'Brands' },
-    { href: '#about', label: 'About' },
-    { href: '#contact', label: 'Contact' },
+    { href: '/', label: 'Home' },
+    { href: '/products', label: 'Products' },
+    { href: '/about', label: 'About' },
+    { href: '/contact', label: 'Contact' },
   ];
 
   return (
@@ -61,7 +60,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="#contact"
+              href="/contact"
               className="px-6 py-2.5 bg-gradient-to-r from-[#F5B335] to-[#E94B4B] text-white font-medium text-sm rounded-lg hover:shadow-lg transition-all duration-200"
             >
               Get Started
@@ -113,7 +112,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="#contact"
+              href="/contact"
               onClick={() => setMobileMenuOpen(false)}
               className="block mx-4 px-6 py-2.5 bg-gradient-to-r from-[#F5B335] to-[#E94B4B] text-white font-medium text-sm text-center rounded-lg hover:shadow-lg transition-all duration-200"
             >
